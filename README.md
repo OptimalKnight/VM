@@ -11,13 +11,13 @@ This project required knowledge of Verilog, FSMs, and digital design principles 
 
 ## Authors
 
-- [@OptimalKnight](https:// www.github.com/OptimalKnight)
-- [@Amank2854](https:// www.github.com/Amank2854)
+- [@OptimalKnight](https://www.github.com/OptimalKnight)
+- [@Amank2854](https://www.github.com/Amank2854)
 
 
 ## Run Locally
 
-Follow along [these](https:// medium.com/macoclock/running-verilog-code-on-linux-mac-3b06ddcccc55) steps for running Verilog code on Linux/Mac.
+Follow along [these](https://medium.com/macoclock/running-verilog-code-on-linux-mac-3b06ddcccc55) steps for running Verilog code on Linux/Mac.
 
 
 ## Specifications
